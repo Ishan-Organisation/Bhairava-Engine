@@ -99,3 +99,5 @@ Permission is hereby granted, free of charge, to use, copy, modify, and distribu
 
 “Security is not a feature. It is a foundation.”
 Bhairava Engine is built as a step toward understanding real-world cryptographic systems and secure software design.
+
+# SECURITY FLAW DETECTED: UPDATES COMING SOON
