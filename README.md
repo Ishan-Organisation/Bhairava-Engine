@@ -1,6 +1,8 @@
 #  Bhairava Engine
 ### A lightweight cryptographic engine built in C using OpenSSL
 
+## NOTICE: SECURITY UPDATES ARE POSTPONED TO DECEMBER AND MAJOR CHANGES ARE BEING PLANNED
+
 ---
 #  Overview
 
